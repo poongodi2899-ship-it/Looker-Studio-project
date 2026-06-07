@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Country,Category,Segment,Sales,Profit,Quantity
+ORD0001,11/05/2025,Australia,Electronics,Consumer,22373.77,6224.89,14
+ORD0002,09/09/2025,Canada,Furniture,Home Office,40073.16,4475.81,12
+ORD0003,07/11/2025,Australia,Electronics,Corporate,9503.49,8477.63,4
+ORD0004,02/08/2025,UK,Clothing,Home Office,27979.39,4861.94,9
+ORD0005,16/01/2025,USA,Clothing,Consumer,30812.77,4805.68,15
+ORD0006,19/08/2025,Canada,Technology,Consumer,41848.62,6714.62,15
+ORD0007,21/04/2025,Australia,Clothing,Corporate,10129.23,6552.86,7
+ORD0008,24/06/2025,UK,Technology,Corporate,24149.73,8945.33,8
+ORD0009,24/12/2025,USA,Office Supplies,Home Office,34732.37,4492.38,18
+ORD0010,23/12/2025,USA,Clothing,Home Office,15318.88,6823.18,17
+ORD0011,11/07/2025,Australia,Furniture,Home Office,36626.63,8266.3,14
+ORD0012,03/12/2025,Australia,Electronics,Consumer,44394.98,1210.09,3
+ORD0013,29/01/2025,USA,Office Supplies,Consumer,13067.45,6451.08,3
+ORD0014,15/02/2025,Australia,Furniture,Home Office,17054.16,3985.37,18
+ORD0015,30/08/2025,Australia,Office Supplies,Home Office,14156.8,9391,20
+ORD0016,08/08/2025,India,Technology,Corporate,39329,3803.5,5
+ORD0017,01/02/2025,UK,Technology,Consumer,49907.43,6538.71,3
+ORD0018,06/11/2025,UK,Furniture,Consumer,29336.1,8523.99,11
+ORD0019,24/12/2025,Canada,Technology,Home Office,24327.52,7515.39,14
+ORD0020,01/10/2025,UK,Furniture,Home Office,32955.5,6012.47,20
+ORD0021,14/03/2025,USA,Electronics,Corporate,11240.36,8375.88,4
+ORD0022,29/05/2025,Australia,Furniture,Home Office,46455.73,1701.27,7
+ORD0023,24/09/2025,Australia,Clothing,Corporate,4939.5,1795.64,18
+ORD0024,24/06/2025,Canada,Office Supplies,Home Office,31329.43,5768.03,3
+ORD0025,23/02/2025,Canada,Technology,Consumer,33675.58,1481.73,13
+ORD0026,11/07/2025,UK,Technology,Home Office,21874.99,1398.31,16
+ORD0027,06/09/2025,India,Electronics,Corporate,13441.91,9198.52,17
+ORD0028,28/03/2025,UK,Furniture,Corporate,23354.49,4361.06,17
+ORD0029,28/10/2025,Canada,Clothing,Consumer,8553.12,5964.43,11
+ORD0030,15/08/2025,Canada,Office Supplies,Home Office,24707.78,208.62,7
+ORD0031,16/03/2025,India,Technology,Consumer,35748.18,735.29,19
+ORD0032,29/08/2025,USA,Office Supplies,Home Office,30515.16,9029.36,17
+ORD0033,27/05/2025,Australia,Electronics,Corporate,19771.6,1396.34,13
+ORD0034,17/09/2025,Canada,Clothing,Corporate,29450.38,5430.75,15
+ORD0035,07/09/2025,India,Electronics,Consumer,3623.03,904.62,1
+ORD0036,03/11/2025,Canada,Technology,Corporate,16813.04,7362.15,5
+ORD0037,09/09/2025,USA,Technology,Corporate,13132.21,9040.26,15
+ORD0038,07/02/2025,India,Technology,Consumer,23281.68,6534.78,11
+ORD0039,28/01/2025,India,Clothing,Corporate,49640.37,2579.23,9
+ORD0040,25/02/2025,India,Clothing,Home Office,1375.08,5388.86,3
+ORD0041,23/03/2025,India,Electronics,Consumer,22625.27,1330.44,14
+ORD0042,08/06/2025,India,Furniture,Consumer,17488.88,2089.21,3
+ORD0043,17/07/2025,Canada,Office Supplies,Consumer,4486.95,3906.18,20
+ORD0044,15/08/2025,UK,Clothing,Consumer,20942.32,5286.26,18
+ORD0045,22/05/2025,Australia,Electronics,Corporate,49268.19,1232.23,15
+ORD0046,25/01/2025,USA,Office Supplies,Consumer,33095.94,9338.03,1
+ORD0047,08/10/2025,USA,Office Supplies,Home Office,19146.83,3528.42,9
+ORD0048,16/08/2025,UK,Technology,Home Office,8457.8,1164.83,12
+ORD0049,20/07/2025,Australia,Electronics,Corporate,2894.96,6300.45,17
+ORD0050,29/07/2025,USA,Office Supplies,Consumer,8204.7,7895.85,17
+ORD0051,21/11/2025,UK,Clothing,Corporate,25223.31,7353.25,19
+ORD0052,26/11/2025,Canada,Electronics,Consumer,9386.41,7691.47,3
+ORD0053,03/05/2025,USA,Electronics,Corporate,33707.21,2677.04,3
+ORD0054,11/11/2025,USA,Technology,Consumer,20000.28,9243.24,10
+ORD0055,05/04/2025,USA,Clothing,Home Office,9479.71,6374.22,15
+ORD0056,28/03/2025,India,Electronics,Home Office,49466.63,7147.77,7
+ORD0057,18/03/2025,USA,Office Supplies,Home Office,42207.16,743.14,2
+ORD0058,13/12/2025,UK,Office Supplies,Corporate,20971.95,112.72,7
+ORD0059,29/08/2025,Australia,Office Supplies,Corporate,42296.51,1957.94,20
+ORD0060,31/07/2025,UK,Technology,Corporate,12526.22,1049.73,2
+ORD0061,31/03/2025,UK,Office Supplies,Corporate,13562.56,4221.92,11
+ORD0062,24/11/2025,India,Technology,Home Office,11210.93,3705.6,7
+ORD0063,26/05/2025,Australia,Electronics,Consumer,13676.1,2386.01,15
+ORD0064,22/11/2025,Australia,Clothing,Consumer,27955.89,3051.51,4
+ORD0065,25/12/2025,Canada,Technology,Corporate,24122.5,1276.31,7
+ORD0066,28/07/2025,USA,Furniture,Corporate,12957.9,5588.41,12
+ORD0067,09/09/2025,USA,Technology,Consumer,12528.65,5018.25,12
+ORD0068,07/08/2025,India,Electronics,Home Office,46139.49,3752.82,4
+ORD0069,16/02/2025,Canada,Electronics,Consumer,18690.46,6955.37,18
+ORD0070,18/06/2025,India,Technology,Corporate,45063.12,2370.58,18
+ORD0071,15/03/2025,USA,Electronics,Consumer,7292.82,5811.29,5
+ORD0072,05/10/2025,UK,Office Supplies,Consumer,25232.41,3092,13
+ORD0073,14/07/2025,India,Technology,Consumer,41933.21,3994.25,9
+ORD0074,06/10/2025,USA,Technology,Consumer,33653.8,3203.43,19
+ORD0075,17/12/2025,USA,Furniture,Consumer,19121.14,532.09,9
+ORD0076,15/05/2025,USA,Office Supplies,Consumer,44213.16,9286.98,8
+ORD0077,30/08/2025,Canada,Clothing,Consumer,43462.52,8986.45,17
+ORD0078,28/03/2025,India,Technology,Home Office,39987.88,8032.52,18
+ORD0079,09/05/2025,India,Technology,Home Office,31716.71,4962.02,5
+ORD0080,28/03/2025,Canada,Clothing,Corporate,47405.51,7407.5,15
+ORD0081,30/01/2025,Canada,Office Supplies,Home Office,35439.57,735.53,18
+ORD0082,26/11/2025,India,Clothing,Consumer,48739.08,5031.45,2
+ORD0083,19/02/2025,Australia,Office Supplies,Corporate,19824.73,874.63,12
+ORD0084,28/05/2025,USA,Clothing,Consumer,15209.84,9755.43,15
+ORD0085,17/11/2025,USA,Office Supplies,Home Office,36983.29,1037.24,1
+ORD0086,27/02/2025,India,Furniture,Consumer,44117.01,3783.34,14
+ORD0087,15/12/2025,India,Technology,Home Office,49765.69,560.18,14
+ORD0088,25/02/2025,Canada,Electronics,Consumer,20941.75,2583.28,3
+ORD0089,20/08/2025,India,Clothing,Corporate,20498.52,4589.89,19
+ORD0090,15/06/2025,India,Electronics,Corporate,26779.8,4211.12,20
+ORD0091,16/05/2025,India,Office Supplies,Corporate,27456.46,568.66,17
+ORD0092,25/09/2025,Canada,Technology,Corporate,22277.8,5562.59,16
+ORD0093,31/03/2025,UK,Electronics,Consumer,25839.86,2127.59,2
+ORD0094,09/10/2025,UK,Office Supplies,Corporate,32225.89,6068.56,14
+ORD0095,16/06/2025,Australia,Electronics,Home Office,49871.52,3000.66,12
+ORD0096,08/09/2025,USA,Furniture,Consumer,42218.7,9723.81,10
+ORD0097,05/12/2025,UK,Clothing,Consumer,32286.78,8799.9,11
+ORD0098,17/05/2025,India,Clothing,Consumer,13697.97,8654.99,7
+ORD0099,17/12/2025,UK,Technology,Home Office,9057.53,9497.99,2
+ORD0100,03/09/2025,USA,Furniture,Corporate,6604.12,232.13,6
+ORD0101,01/10/2025,India,Office Supplies,Home Office,27215.28,1711.07,19
+ORD0102,27/10/2025,USA,Clothing,Consumer,21726.93,8778.57,1
+ORD0103,09/12/2025,India,Furniture,Corporate,14383.26,6980.73,6
+ORD0104,07/02/2025,India,Technology,Consumer,32988.11,6960.38,5
+ORD0105,21/08/2025,India,Technology,Home Office,20634.92,8651.83,18
+ORD0106,04/02/2025,USA,Clothing,Consumer,24398.88,6491.46,9
+ORD0107,11/03/2025,Australia,Office Supplies,Consumer,1425.53,8159.45,8
+ORD0108,29/08/2025,UK,Clothing,Home Office,14777.48,7891.14,13
+ORD0109,28/12/2025,UK,Clothing,Home Office,25208.26,2861.76,19
+ORD0110,02/12/2025,Canada,Furniture,Consumer,33670.51,1687.29,15
+ORD0111,17/10/2025,UK,Furniture,Consumer,6499.18,6372.19,10
+ORD0112,21/10/2025,Australia,Electronics,Corporate,48165.42,5894.96,12
+ORD0113,01/12/2025,Canada,Clothing,Consumer,39865.42,1375.67,14
+ORD0114,16/06/2025,Australia,Clothing,Consumer,22455.13,7664.12,17
+ORD0115,06/10/2025,USA,Furniture,Home Office,17276.63,8755.03,10
+ORD0116,31/10/2025,Canada,Clothing,Consumer,39368,2476.64,19
+ORD0117,10/03/2025,UK,Clothing,Consumer,3490.57,1296.98,10
+ORD0118,09/08/2025,UK,Furniture,Home Office,14739.31,705.45,17
+ORD0119,14/10/2025,India,Furniture,Consumer,25437.83,4599.25,2
+ORD0120,24/05/2025,India,Furniture,Corporate,34627.96,8143.93,4
+ORD0121,15/02/2025,Australia,Technology,Corporate,7829.61,6844.94,6
+ORD0122,03/01/2025,Canada,Electronics,Home Office,9005.61,3215.49,8
+ORD0123,10/06/2025,India,Clothing,Corporate,47863.11,845.8,2
+ORD0124,18/10/2025,Canada,Office Supplies,Corporate,6712.66,2873.07,9
+ORD0125,19/05/2025,UK,Clothing,Home Office,36526.03,3212.19,6
+ORD0126,04/01/2025,India,Clothing,Home Office,36735.93,349.67,20
+ORD0127,18/02/2025,Canada,Electronics,Home Office,21102.35,7947.34,16
+ORD0128,18/11/2025,Canada,Clothing,Home Office,16448.8,1943.5,18
+ORD0129,25/11/2025,India,Technology,Consumer,26270.44,4195.35,13
+ORD0130,18/02/2025,Canada,Clothing,Home Office,23646.68,4555.37,10
+ORD0131,26/07/2025,India,Furniture,Corporate,23690.4,5532.21,10
+ORD0132,19/02/2025,UK,Electronics,Home Office,3481.07,7936.55,13
+ORD0133,06/09/2025,India,Technology,Corporate,5324.58,8871.3,12
+ORD0134,23/01/2025,UK,Furniture,Home Office,30884.62,4479.45,19
+ORD0135,18/04/2025,Australia,Office Supplies,Corporate,11043.41,5587.56,2
+ORD0136,03/02/2025,UK,Clothing,Home Office,39477.43,806.03,18
+ORD0137,23/03/2025,Canada,Electronics,Corporate,40077.99,9838.71,8
+ORD0138,16/09/2025,Canada,Office Supplies,Home Office,16007.81,4665.92,17
+ORD0139,01/12/2025,USA,Clothing,Corporate,31308.63,1433.35,9
+ORD0140,14/07/2025,Canada,Furniture,Consumer,16065.02,8114.43,1
+ORD0141,30/04/2025,USA,Clothing,Consumer,25791.36,2395.41,20
+ORD0142,26/05/2025,Australia,Electronics,Consumer,17612.2,8069.71,15
+ORD0143,11/11/2025,UK,Furniture,Consumer,8769.96,7767.2,5
+ORD0144,12/02/2025,India,Office Supplies,Corporate,47027.12,5371.17,3
+ORD0145,12/06/2025,UK,Technology,Consumer,45284.75,7685.53,10
+ORD0146,08/07/2025,Canada,Clothing,Corporate,18893.18,428.75,2
+ORD0147,20/10/2025,Australia,Electronics,Consumer,49654.95,5168.97,5
+ORD0148,30/01/2025,India,Electronics,Consumer,16960.74,8929.87,2
+ORD0149,05/06/2025,USA,Clothing,Home Office,30539.94,8156.01,16
+ORD0150,08/09/2025,UK,Furniture,Home Office,36673.57,2646.82,19
+ORD0151,16/09/2025,India,Furniture,Consumer,13440.9,8148.34,18
+ORD0152,01/10/2025,UK,Furniture,Consumer,1440.54,4924.51,17
+ORD0153,17/08/2025,USA,Clothing,Home Office,32634.11,2795,15
+ORD0154,02/10/2025,Canada,Technology,Corporate,34020.86,3926.56,16
+ORD0155,13/04/2025,Australia,Furniture,Home Office,3021.7,4511.43,19
+ORD0156,30/01/2025,USA,Office Supplies,Corporate,39800.62,7302.29,19
+ORD0157,13/07/2025,Australia,Clothing,Home Office,43389.5,8648.94,2
+ORD0158,08/08/2025,Australia,Furniture,Consumer,13958.48,9841.99,7
+ORD0159,17/12/2025,Canada,Office Supplies,Consumer,40834.94,1019.58,4
+ORD0160,10/02/2025,USA,Technology,Corporate,5769.38,8874.71,12
+ORD0161,12/02/2025,Australia,Electronics,Home Office,26930.13,3953.79,16
+ORD0162,31/01/2025,UK,Electronics,Corporate,9500.03,910.22,14
+ORD0163,03/09/2025,Australia,Clothing,Consumer,33591.8,2219.76,1
+ORD0164,21/12/2025,UK,Electronics,Consumer,35137.88,2392.03,5
+ORD0165,15/04/2025,Australia,Clothing,Corporate,40335.3,8569.03,15
+ORD0166,21/07/2025,UK,Electronics,Home Office,45184.97,1522.36,15
+ORD0167,04/09/2025,India,Furniture,Home Office,47574.97,7754.06,7
+ORD0168,23/05/2025,UK,Technology,Consumer,30942.25,1400.3,11
+ORD0169,17/11/2025,India,Technology,Home Office,21214.77,3329.43,11
+ORD0170,07/07/2025,UK,Clothing,Consumer,24115.85,2097.26,19
+ORD0171,14/03/2025,UK,Furniture,Home Office,43388.2,6987.61,18
+ORD0172,16/05/2025,Australia,Office Supplies,Consumer,32330.55,181.01,12
+ORD0173,18/12/2025,UK,Technology,Home Office,6627.46,4467.67,15
+ORD0174,21/07/2025,USA,Clothing,Consumer,23094.99,7048.99,8
+ORD0175,28/12/2025,USA,Electronics,Home Office,34079.34,6565.83,18
+ORD0176,21/11/2025,Canada,Clothing,Corporate,18576.34,7980.05,17
+ORD0177,06/11/2025,USA,Office Supplies,Corporate,3034.06,4672.12,17
+ORD0178,09/04/2025,Canada,Electronics,Home Office,18774.16,9445.36,6
+ORD0179,30/09/2025,USA,Clothing,Consumer,23652.03,4871.69,4
+ORD0180,21/01/2025,Australia,Technology,Corporate,37313.23,4644.53,1
+ORD0181,17/02/2025,UK,Electronics,Consumer,38278.57,7451.25,15
+ORD0182,17/06/2025,India,Technology,Home Office,40093.67,1637.84,12
+ORD0183,21/11/2025,India,Furniture,Consumer,27237.16,5245.13,12
+ORD0184,07/12/2025,USA,Clothing,Home Office,10062.25,4381.01,1
+ORD0185,08/03/2025,India,Technology,Home Office,43542.53,322.59,8
+ORD0186,15/01/2025,India,Furniture,Home Office,39170.73,1310.04,7
+ORD0187,24/09/2025,Australia,Technology,Consumer,40237.99,7113.17,19
+ORD0188,21/01/2025,Canada,Office Supplies,Consumer,26808.38,5944.36,6
+ORD0189,26/09/2025,USA,Furniture,Corporate,38991.94,6086.71,11
+ORD0190,30/12/2025,USA,Furniture,Home Office,48738.08,9944.85,18
+ORD0191,10/07/2025,India,Technology,Consumer,38672.1,6847.91,8
+ORD0192,26/09/2025,Australia,Clothing,Corporate,16279.27,4321.58,17
+ORD0193,14/06/2025,Australia,Technology,Corporate,4330.67,3381.06,10
+ORD0194,24/05/2025,UK,Furniture,Corporate,20869.47,2272.74,13
+ORD0195,01/08/2025,Canada,Technology,Consumer,42932.94,784.05,9
+ORD0196,27/11/2025,UK,Electronics,Corporate,19175.89,4268.73,9
+ORD0197,30/04/2025,USA,Technology,Home Office,42160.48,2718.65,6
+ORD0198,04/04/2025,Australia,Clothing,Consumer,12179.02,1259.27,9
+ORD0199,26/05/2025,USA,Clothing,Consumer,11012.78,8965.58,13
+ORD0200,11/07/2025,India,Technology,Corporate,16717.78,7826.63,19
+ORD0201,23/09/2025,Australia,Technology,Corporate,19360.4,2993.67,9
+ORD0202,30/06/2025,UK,Office Supplies,Corporate,48039.72,1918.26,5
+ORD0203,10/12/2025,USA,Clothing,Consumer,18192.49,5374.3,9
+ORD0204,25/12/2025,India,Electronics,Home Office,7615.82,1747.09,6
+ORD0205,19/05/2025,USA,Furniture,Consumer,6249.6,8539.97,8
+ORD0206,30/07/2025,Australia,Clothing,Home Office,49524.7,5743.6,14
+ORD0207,24/01/2025,India,Furniture,Home Office,10321.53,8111.68,15
+ORD0208,22/02/2025,USA,Office Supplies,Home Office,20360.34,2710.76,10
+ORD0209,14/03/2025,USA,Electronics,Home Office,14442.01,7480.79,2
+ORD0210,05/02/2025,UK,Furniture,Corporate,19581.16,7785.51,6
+ORD0211,19/12/2025,India,Furniture,Corporate,10955.01,220.56,11
+ORD0212,30/10/2025,Australia,Clothing,Corporate,35314.71,9652.01,4
+ORD0213,27/08/2025,Australia,Electronics,Corporate,10841.33,9184.3,3
+ORD0214,10/10/2025,Australia,Electronics,Consumer,38756.93,8928.77,2
+ORD0215,14/09/2025,Australia,Electronics,Home Office,19702.99,7336.69,20
+ORD0216,18/09/2025,Canada,Furniture,Corporate,29850.69,1641.17,14
+ORD0217,01/04/2025,Australia,Technology,Corporate,44721.29,4823.03,14
+ORD0218,16/04/2025,USA,Clothing,Consumer,5482.2,9580.39,4
+ORD0219,27/02/2025,Canada,Furniture,Consumer,41605.32,1802.73,13
+ORD0220,06/08/2025,India,Clothing,Corporate,41553.34,3147.24,10
+ORD0221,02/12/2025,UK,Electronics,Consumer,20118.52,9570.34,20
+ORD0222,06/04/2025,Australia,Clothing,Corporate,12323.75,5318.67,9
+ORD0223,21/04/2025,UK,Technology,Home Office,13989.64,3725.43,1
+ORD0224,26/04/2025,Canada,Technology,Consumer,19455.71,4984.85,1
+ORD0225,17/06/2025,Australia,Clothing,Home Office,46767.42,8001.47,17
+ORD0226,29/06/2025,USA,Furniture,Home Office,8303.44,4927.05,16
+ORD0227,01/10/2025,UK,Electronics,Home Office,23774.57,5059.68,9
+ORD0228,25/04/2025,USA,Office Supplies,Corporate,6592.57,509.79,6
+ORD0229,28/04/2025,USA,Office Supplies,Consumer,3113.95,1947.61,10
+ORD0230,30/09/2025,UK,Clothing,Home Office,39271.01,4591.55,15
+ORD0231,10/12/2025,Australia,Technology,Home Office,1797.14,1714.13,11
+ORD0232,30/07/2025,UK,Furniture,Corporate,25021.26,9777.25,11
+ORD0233,31/05/2025,India,Electronics,Home Office,36481.12,3051.74,8
+ORD0234,05/01/2025,India,Furniture,Corporate,23820.1,9979.2,3
+ORD0235,06/07/2025,Australia,Office Supplies,Home Office,41093.12,9280.8,11
+ORD0236,25/06/2025,India,Technology,Corporate,37292.52,4228.94,3
+ORD0237,13/04/2025,USA,Office Supplies,Home Office,12983.77,8013.92,19
+ORD0238,24/03/2025,Australia,Electronics,Consumer,42416.52,671.34,13
+ORD0239,17/11/2025,India,Office Supplies,Corporate,46377.14,4992.56,11
+ORD0240,07/11/2025,UK,Clothing,Corporate,10925.12,7641.57,19
+ORD0241,31/07/2025,Canada,Office Supplies,Corporate,33760.5,4421.93,8
+ORD0242,05/10/2025,UK,Furniture,Home Office,9383.37,6656.63,13
+ORD0243,10/08/2025,India,Electronics,Consumer,43736.88,1391.7,6
+ORD0244,05/03/2025,UK,Furniture,Home Office,42062.68,4156.14,1
+ORD0245,26/11/2025,India,Furniture,Home Office,22952.27,8371.09,15
+ORD0246,20/02/2025,India,Electronics,Home Office,47964.32,8144.06,18
+ORD0247,16/06/2025,India,Furniture,Consumer,48338.19,1446.42,1
+ORD0248,01/11/2025,USA,Electronics,Home Office,17714.35,4039.77,6
+ORD0249,08/04/2025,USA,Furniture,Corporate,24867.55,1536.41,10
+ORD0250,25/01/2025,UK,Office Supplies,Consumer,14292.03,6492.93,2
+ORD0251,05/09/2025,USA,Technology,Consumer,10391.59,950.79,2
+ORD0252,10/03/2025,India,Office Supplies,Consumer,38919.44,8752.3,12
+ORD0253,16/02/2025,USA,Furniture,Corporate,41821.29,630.99,18
+ORD0254,10/12/2025,Canada,Office Supplies,Corporate,18728.99,3349.1,7
+ORD0255,06/11/2025,Canada,Office Supplies,Home Office,12663.76,564.13,9
+ORD0256,01/05/2025,Australia,Technology,Home Office,28924.78,7721.6,10
+ORD0257,16/12/2025,Canada,Electronics,Corporate,2721.14,7980.87,10
+ORD0258,12/03/2025,India,Technology,Consumer,49265.83,9896.19,19
+ORD0259,03/12/2025,Canada,Clothing,Home Office,39704.57,9431.04,16
+ORD0260,30/11/2025,India,Clothing,Home Office,17893.84,4515.27,3
+ORD0261,07/07/2025,USA,Furniture,Home Office,12534.72,6677.77,19
+ORD0262,26/08/2025,Australia,Office Supplies,Consumer,31353.97,1076.82,6
+ORD0263,19/01/2025,Australia,Furniture,Corporate,31264.34,2691.85,8
+ORD0264,01/06/2025,India,Clothing,Home Office,9496.68,5095.47,11
+ORD0265,02/09/2025,Canada,Furniture,Home Office,29020.16,528.09,7
+ORD0266,07/09/2025,USA,Clothing,Consumer,47541.79,7210.13,3
+ORD0267,29/12/2025,India,Furniture,Consumer,20276.33,6338.96,7
+ORD0268,30/08/2025,India,Technology,Corporate,31529.42,6549.12,12
+ORD0269,28/02/2025,India,Clothing,Corporate,13804.39,2574.89,14
+ORD0270,04/04/2025,Canada,Clothing,Corporate,15365.97,4463.64,14
+ORD0271,24/04/2025,USA,Clothing,Home Office,4958.94,6751.45,9
+ORD0272,08/10/2025,Australia,Office Supplies,Consumer,7774.25,4759.99,2
+ORD0273,19/06/2025,Canada,Clothing,Home Office,14567.53,4929.79,6
+ORD0274,28/01/2025,USA,Furniture,Consumer,28083,5654.29,4
+ORD0275,26/05/2025,USA,Furniture,Corporate,28027.29,5255.87,10
+ORD0276,16/04/2025,Australia,Electronics,Corporate,4971.96,1250.7,9
+ORD0277,04/01/2025,USA,Electronics,Home Office,36150.2,1194.37,10
+ORD0278,08/08/2025,UK,Furniture,Home Office,48566.5,2098.91,5
+ORD0279,20/12/2025,UK,Technology,Consumer,20203.26,8781.01,6
+ORD0280,18/05/2025,Australia,Office Supplies,Home Office,13306.49,2727.95,7
+ORD0281,18/07/2025,USA,Clothing,Consumer,44389.15,979.2,8
+ORD0282,10/04/2025,Australia,Office Supplies,Consumer,29404.97,8950.76,14
+ORD0283,03/03/2025,Canada,Clothing,Consumer,28097,3910.62,1
+ORD0284,17/07/2025,Canada,Furniture,Consumer,3348.88,3630.57,12
+ORD0285,20/06/2025,India,Furniture,Consumer,47583.06,863.14,3
+ORD0286,11/04/2025,UK,Furniture,Corporate,21193.9,1703.54,6
+ORD0287,11/08/2025,UK,Electronics,Home Office,12170.02,9382.03,17
+ORD0288,09/01/2025,USA,Furniture,Corporate,1342.84,6962.36,1
+ORD0289,19/09/2025,USA,Technology,Home Office,24658.01,4191.19,4
+ORD0290,02/12/2025,India,Clothing,Home Office,16890.76,3281.3,17
+ORD0291,25/08/2025,India,Clothing,Consumer,19585.44,8761.43,9
+ORD0292,03/11/2025,UK,Electronics,Consumer,45017.62,809.1,11
+ORD0293,23/03/2025,Australia,Technology,Corporate,34013.02,6181.62,1
+ORD0294,28/07/2025,USA,Technology,Home Office,29277.49,5679.62,8
+ORD0295,20/06/2025,USA,Office Supplies,Consumer,19598.28,5917.83,18
+ORD0296,17/03/2025,UK,Furniture,Corporate,11628.42,5785.61,17
+ORD0297,25/04/2025,Canada,Electronics,Consumer,6011.61,6451.75,11
+ORD0298,18/07/2025,UK,Clothing,Corporate,47093.81,682,2
+ORD0299,29/07/2025,Australia,Office Supplies,Home Office,9098.35,1978.2,10
+ORD0300,16/07/2025,India,Furniture,Home Office,45988,9755.06,9
+ORD0301,18/07/2025,Canada,Clothing,Home Office,4628.49,7659.93,18
+ORD0302,14/10/2025,Australia,Clothing,Corporate,48047.83,2872.1,8
+ORD0303,28/12/2025,Australia,Electronics,Corporate,17783.35,2100.69,12
+ORD0304,11/08/2025,India,Clothing,Home Office,15921.03,1818.66,2
+ORD0305,07/11/2025,India,Office Supplies,Consumer,46069.39,1979.04,4
+ORD0306,07/05/2025,India,Furniture,Corporate,11614.99,7433.75,19
+ORD0307,02/08/2025,USA,Electronics,Home Office,24896.19,2823.25,10
+ORD0308,02/06/2025,UK,Office Supplies,Home Office,34889.59,6115.03,13
+ORD0309,10/12/2025,USA,Clothing,Corporate,39017.8,2899.07,4
+ORD0310,26/04/2025,India,Clothing,Corporate,23211.39,8157.25,11
+ORD0311,19/06/2025,Canada,Office Supplies,Home Office,45825.92,1817.69,4
+ORD0312,24/12/2025,Canada,Furniture,Corporate,3612.66,7520.92,13
+ORD0313,13/11/2025,Canada,Office Supplies,Home Office,6238.87,5067.35,16
+ORD0314,17/02/2025,Australia,Technology,Consumer,40546.87,9444.64,5
+ORD0315,11/03/2025,Canada,Office Supplies,Consumer,3244.41,2018.02,10
+ORD0316,18/07/2025,Canada,Technology,Home Office,30149.35,3690.4,9
+ORD0317,20/02/2025,USA,Electronics,Home Office,2850.23,3804.64,16
+ORD0318,25/02/2025,Australia,Office Supplies,Consumer,6527.33,7234.55,8
+ORD0319,12/07/2025,India,Office Supplies,Home Office,25579.23,5473.2,1
+ORD0320,13/11/2025,UK,Clothing,Home Office,3061,3723.71,18
+ORD0321,21/01/2025,India,Technology,Consumer,39218.17,3178.7,16
+ORD0322,18/09/2025,Canada,Clothing,Corporate,6201.77,1925.09,12
+ORD0323,19/04/2025,Canada,Clothing,Corporate,11019.94,3696.77,19
+ORD0324,11/03/2025,UK,Clothing,Consumer,22757.01,8184.84,15
+ORD0325,25/08/2025,Australia,Technology,Consumer,2303.82,6954.56,6
+ORD0326,27/10/2025,UK,Technology,Corporate,4530.04,8931.04,13
+ORD0327,24/03/2025,UK,Technology,Home Office,39996.77,9354.66,18
+ORD0328,17/11/2025,Canada,Furniture,Consumer,4529.89,2271.14,12
+ORD0329,01/06/2025,India,Office Supplies,Corporate,44580.15,853.1,16
+ORD0330,11/12/2025,Australia,Electronics,Corporate,33296.7,7817.99,18
+ORD0331,30/10/2025,India,Office Supplies,Home Office,44368.25,5613.37,2
+ORD0332,17/08/2025,Australia,Electronics,Consumer,3400.57,3668.23,8
+ORD0333,28/01/2025,India,Clothing,Home Office,46500.58,2398.86,14
+ORD0334,03/10/2025,Canada,Office Supplies,Corporate,14496.7,574.52,2
+ORD0335,09/08/2025,USA,Clothing,Home Office,9319.98,7377.15,15
+ORD0336,09/01/2025,UK,Office Supplies,Consumer,32522.51,5109.72,5
+ORD0337,30/11/2025,UK,Technology,Home Office,18485.64,7404.35,5
+ORD0338,19/03/2025,Canada,Electronics,Home Office,46491.48,2274.97,7
+ORD0339,04/03/2025,UK,Electronics,Home Office,8728.68,8412.53,8
+ORD0340,24/08/2025,Canada,Office Supplies,Consumer,6796.48,2311.25,8
+ORD0341,18/12/2025,USA,Furniture,Consumer,10906.52,5931.23,10
+ORD0342,20/11/2025,Australia,Technology,Corporate,32867.27,313.97,13
+ORD0343,26/08/2025,Canada,Office Supplies,Consumer,46941.07,6987.32,1
+ORD0344,02/07/2025,Canada,Technology,Home Office,10402.75,1047.53,20
+ORD0345,20/09/2025,UK,Technology,Consumer,5097.33,4545.21,3
+ORD0346,09/07/2025,USA,Electronics,Consumer,12421.73,2327.07,18
+ORD0347,02/06/2025,Canada,Office Supplies,Corporate,7312.22,6109.01,9
+ORD0348,06/11/2025,Canada,Clothing,Corporate,3426.02,7354.06,13
+ORD0349,03/11/2025,UK,Technology,Consumer,46281.61,2671.67,17
+ORD0350,11/04/2025,UK,Clothing,Home Office,5114.94,2849.38,17
+ORD0351,14/04/2025,UK,Clothing,Consumer,15826.94,687.2,2
+ORD0352,22/09/2025,USA,Clothing,Consumer,3789.38,3030.72,6
+ORD0353,25/02/2025,India,Clothing,Consumer,4819.18,1819.58,15
+ORD0354,03/03/2025,USA,Electronics,Corporate,12123.69,8273.46,11
+ORD0355,23/02/2025,UK,Clothing,Consumer,48543.09,3307.14,16
+ORD0356,24/02/2025,USA,Clothing,Consumer,20851.51,5499.66,11
+ORD0357,20/09/2025,Australia,Office Supplies,Corporate,16023.55,1804.53,1
+ORD0358,25/06/2025,Canada,Electronics,Home Office,6622.58,4348.66,5
+ORD0359,05/07/2025,Canada,Clothing,Home Office,21308.42,9252.53,5
+ORD0360,11/07/2025,USA,Office Supplies,Corporate,7490.82,9904.97,14
+ORD0361,28/05/2025,Canada,Technology,Consumer,28580.66,8337.32,18
+ORD0362,05/02/2025,India,Furniture,Consumer,48532.45,5539.45,16
+ORD0363,03/07/2025,UK,Technology,Home Office,26959.79,8244.75,1
+ORD0364,23/08/2025,USA,Furniture,Consumer,38717.2,9879.12,9
+ORD0365,02/08/2025,USA,Technology,Consumer,18453.83,2554.63,2
+ORD0366,26/06/2025,USA,Technology,Consumer,36924.09,199.07,9
+ORD0367,17/09/2025,India,Office Supplies,Home Office,5694.67,6039.8,11
+ORD0368,30/07/2025,Canada,Furniture,Corporate,29151.86,1067.51,7
+ORD0369,05/12/2025,India,Technology,Corporate,33677.87,6571.73,8
+ORD0370,05/05/2025,India,Technology,Corporate,27174.67,127.09,15
+ORD0371,20/06/2025,Australia,Clothing,Home Office,27513.46,6615.88,16
+ORD0372,15/03/2025,Australia,Technology,Corporate,45144.52,5507.63,2
+ORD0373,29/10/2025,Canada,Clothing,Home Office,3861.71,2830.78,19
+ORD0374,28/03/2025,Australia,Furniture,Corporate,34614.99,1845.8,18
+ORD0375,19/03/2025,UK,Office Supplies,Corporate,49641.85,3895.14,11
+ORD0376,28/12/2025,USA,Clothing,Corporate,7265.28,7597.5,6
+ORD0377,02/06/2025,India,Electronics,Corporate,22272.58,6394.48,10
+ORD0378,02/09/2025,Canada,Furniture,Consumer,10653.82,7101.06,7
+ORD0379,17/05/2025,India,Technology,Corporate,26172.56,2643.61,20
+ORD0380,11/05/2025,India,Electronics,Corporate,6773.28,6007.71,18
+ORD0381,27/02/2025,USA,Furniture,Home Office,17689.93,4764.37,12
+ORD0382,26/01/2025,India,Electronics,Consumer,25170.69,1141.66,2
+ORD0383,29/10/2025,Canada,Electronics,Consumer,25908.26,9488.39,13
+ORD0384,22/04/2025,Canada,Technology,Home Office,8644.58,7172.12,3
+ORD0385,09/09/2025,Canada,Furniture,Consumer,21009.25,9589.06,8
+ORD0386,01/05/2025,India,Electronics,Corporate,32808.18,3529.17,11
+ORD0387,13/09/2025,India,Technology,Home Office,30662.77,5153.14,12
+ORD0388,17/01/2025,India,Technology,Consumer,5843.38,5255.73,16
+ORD0389,30/08/2025,Canada,Office Supplies,Corporate,25815.94,9935.39,20
+ORD0390,17/10/2025,India,Electronics,Home Office,30757.43,2289.79,19
+ORD0391,24/10/2025,Canada,Furniture,Home Office,49883.5,4838.06,12
+ORD0392,16/04/2025,USA,Office Supplies,Corporate,36273.09,1384.13,15
+ORD0393,22/11/2025,India,Office Supplies,Corporate,48766.14,6587.73,12
+ORD0394,10/10/2025,UK,Electronics,Home Office,30853.87,918.38,20
+ORD0395,30/09/2025,Australia,Electronics,Corporate,48744.25,6680.07,6
+ORD0396,20/03/2025,India,Electronics,Consumer,23191.09,3855.07,20
+ORD0397,15/09/2025,Canada,Furniture,Consumer,33175.25,2882.63,20
+ORD0398,24/01/2025,Australia,Office Supplies,Consumer,22387.82,4025.73,19
+ORD0399,12/11/2025,Canada,Office Supplies,Home Office,16093.63,8748.55,8
+ORD0400,13/02/2025,USA,Technology,Corporate,18057.55,7984.19,8
+ORD0401,11/12/2025,Canada,Clothing,Consumer,36019.58,598.97,8
+ORD0402,17/05/2025,UK,Furniture,Consumer,36145.93,3743.24,8
+ORD0403,23/09/2025,Australia,Furniture,Corporate,40230.45,4269.96,13
+ORD0404,02/01/2025,UK,Clothing,Home Office,48938.44,6834.99,20
+ORD0405,03/12/2025,Australia,Clothing,Consumer,43789.75,4150.01,16
+ORD0406,08/02/2025,India,Office Supplies,Corporate,19127.67,3599.09,12
+ORD0407,14/07/2025,Canada,Clothing,Corporate,1733.86,2035.27,13
+ORD0408,05/08/2025,USA,Electronics,Home Office,27509.97,357.79,9
+ORD0409,27/11/2025,USA,Office Supplies,Corporate,12658.94,7214.55,16
+ORD0410,01/04/2025,UK,Office Supplies,Home Office,9542.72,3743.27,13
+ORD0411,07/01/2025,Australia,Office Supplies,Home Office,25155.09,7842.96,13
+ORD0412,24/03/2025,India,Office Supplies,Consumer,20486.74,5203.52,3
+ORD0413,03/12/2025,Canada,Electronics,Home Office,2051.7,2357.09,5
+ORD0414,21/08/2025,UK,Technology,Consumer,41404.8,1484.09,8
+ORD0415,08/05/2025,Australia,Technology,Consumer,25243.49,1227.27,2
+ORD0416,21/07/2025,India,Office Supplies,Corporate,36520.66,8838.68,8
+ORD0417,30/10/2025,USA,Electronics,Home Office,24665.56,3124.89,20
+ORD0418,09/04/2025,USA,Clothing,Consumer,34814.97,7900.31,18
+ORD0419,06/10/2025,India,Technology,Corporate,49715.32,597.46,8
+ORD0420,06/10/2025,India,Technology,Corporate,6455.76,6091.75,14
+ORD0421,21/05/2025,Canada,Furniture,Home Office,19401.18,2828.66,9
+ORD0422,14/09/2025,UK,Clothing,Consumer,34938.28,9660.33,9
+ORD0423,22/11/2025,USA,Clothing,Corporate,7633.8,5424.95,1
+ORD0424,27/02/2025,India,Office Supplies,Corporate,12127.27,891.26,6
+ORD0425,18/01/2025,USA,Furniture,Home Office,2565.65,8906.12,17
+ORD0426,24/11/2025,Canada,Technology,Consumer,26935.3,8456.34,8
+ORD0427,05/11/2025,India,Furniture,Consumer,24797.52,2005.34,13
+ORD0428,03/02/2025,USA,Office Supplies,Home Office,48696.34,1696.54,1
+ORD0429,27/03/2025,USA,Furniture,Consumer,37724.25,1943.38,3
+ORD0430,17/06/2025,USA,Technology,Consumer,39953.34,2794.22,6
+ORD0431,14/03/2025,UK,Office Supplies,Consumer,25515.98,9617.3,18
+ORD0432,11/09/2025,UK,Furniture,Corporate,44335.43,1531.49,14
+ORD0433,27/04/2025,UK,Technology,Home Office,3609.88,1473.95,6
+ORD0434,12/09/2025,Canada,Technology,Home Office,42328.72,6065.37,2
+ORD0435,21/03/2025,Australia,Office Supplies,Consumer,35232.18,7578.96,7
+ORD0436,28/03/2025,Canada,Electronics,Home Office,23978.7,8760.49,9
+ORD0437,02/08/2025,USA,Technology,Home Office,7295.17,1006.63,12
+ORD0438,03/01/2025,Australia,Technology,Corporate,21827.91,8586.11,10
+ORD0439,20/03/2025,Australia,Clothing,Consumer,47812.33,9027.54,2
+ORD0440,25/02/2025,Canada,Office Supplies,Corporate,36881.72,4294.03,19
+ORD0441,20/05/2025,India,Furniture,Home Office,3765.8,6260.93,1
+ORD0442,29/08/2025,Australia,Office Supplies,Home Office,33942.63,667.97,10
+ORD0443,13/07/2025,USA,Clothing,Corporate,22791.36,3037.09,4
+ORD0444,05/10/2025,Canada,Technology,Consumer,39264.27,1513.75,14
+ORD0445,02/03/2025,India,Electronics,Corporate,2472.42,9373.63,19
+ORD0446,19/01/2025,India,Office Supplies,Consumer,14825.14,360.35,11
+ORD0447,11/11/2025,USA,Furniture,Corporate,11273.12,3927.29,1
+ORD0448,29/01/2025,Australia,Electronics,Consumer,27405.88,8000.21,5
+ORD0449,17/08/2025,Australia,Electronics,Home Office,39557.61,6011.71,16
+ORD0450,27/10/2025,Canada,Clothing,Corporate,24279.6,515.64,7
+ORD0451,11/11/2025,India,Electronics,Home Office,15341.26,3652.11,4
+ORD0452,19/07/2025,USA,Clothing,Corporate,1617.85,7326.21,5
+ORD0453,04/01/2025,UK,Furniture,Corporate,2640.56,2798.44,14
+ORD0454,14/03/2025,India,Clothing,Consumer,22631.79,475.43,20
+ORD0455,01/06/2025,USA,Electronics,Consumer,4375.87,3013.44,13
+ORD0456,23/06/2025,USA,Furniture,Corporate,46401.02,4701.83,8
+ORD0457,31/12/2025,Canada,Electronics,Home Office,41736.51,10000,5
+ORD0458,31/01/2025,India,Technology,Consumer,3051.32,5295.29,20
+ORD0459,15/01/2025,USA,Electronics,Corporate,41050.99,5369.89,17
+ORD0460,01/02/2025,India,Furniture,Home Office,38620.89,4828.45,18
+ORD0461,20/11/2025,Canada,Clothing,Home Office,15776.93,3951.1,12
+ORD0462,09/05/2025,India,Electronics,Home Office,36161.55,8692.66,10
+ORD0463,18/01/2025,Australia,Clothing,Home Office,25759.31,1441.03,16
+ORD0464,19/11/2025,Australia,Electronics,Consumer,36604.79,5399.28,20
+ORD0465,30/12/2025,Canada,Furniture,Corporate,45610.01,2864.32,7
+ORD0466,10/03/2025,India,Electronics,Corporate,32698.64,3320.5,3
+ORD0467,18/05/2025,USA,Furniture,Corporate,10520.48,794.08,3
+ORD0468,24/12/2025,Canada,Electronics,Corporate,10185.56,150.71,20
+ORD0469,04/02/2025,Canada,Clothing,Consumer,38230.28,7730.51,14
+ORD0470,28/05/2025,India,Electronics,Home Office,48851.14,7325.02,12
+ORD0471,09/05/2025,Australia,Electronics,Consumer,3076.23,411.61,14
+ORD0472,02/11/2025,Australia,Office Supplies,Home Office,34911.28,4648.53,5
+ORD0473,15/07/2025,USA,Electronics,Consumer,48383.19,2226.47,10
+ORD0474,31/08/2025,Canada,Furniture,Corporate,26959.67,1061.19,3
+ORD0475,19/08/2025,UK,Office Supplies,Consumer,33018.76,7903.75,3
+ORD0476,01/07/2025,UK,Clothing,Consumer,40145.61,8379.63,17
+ORD0477,30/04/2025,Australia,Electronics,Consumer,31834.88,2955.84,12
+ORD0478,17/11/2025,UK,Furniture,Consumer,31251.75,7315.62,17
+ORD0479,17/03/2025,India,Clothing,Consumer,28852.36,9230.57,13
+ORD0480,10/12/2025,Australia,Clothing,Home Office,49754.63,3301.49,9
+ORD0481,20/01/2025,USA,Furniture,Consumer,43050.94,1068.98,1
+ORD0482,17/08/2025,USA,Electronics,Corporate,5583.7,4591.28,16
+ORD0483,02/03/2025,UK,Technology,Corporate,46580,4808.89,12
+ORD0484,11/10/2025,Australia,Technology,Home Office,34102.05,9098.58,3
+ORD0485,16/11/2025,UK,Electronics,Corporate,45240.49,8645.55,12
+ORD0486,14/01/2025,Canada,Clothing,Corporate,8523.08,5710.15,14
+ORD0487,26/02/2025,Australia,Office Supplies,Corporate,42093.16,5247.05,10
+ORD0488,05/07/2025,Australia,Office Supplies,Corporate,31951.61,1334.24,17
+ORD0489,12/02/2025,USA,Electronics,Home Office,23447.26,1679.39,8
+ORD0490,28/12/2025,Canada,Technology,Consumer,43403.64,9125.16,10
+ORD0491,16/04/2025,India,Furniture,Corporate,6594.98,3960.87,8
+ORD0492,17/11/2025,Australia,Office Supplies,Home Office,26398.71,1463.69,13
+ORD0493,23/11/2025,UK,Office Supplies,Consumer,32865.68,3823.3,19
+ORD0494,16/04/2025,India,Clothing,Corporate,47236.33,909.11,3
+ORD0495,22/07/2025,USA,Technology,Home Office,6285.12,1425.06,7
+ORD0496,20/12/2025,Canada,Technology,Consumer,17896.86,6855.73,9
+ORD0497,26/08/2025,India,Technology,Corporate,27504.03,5029.94,12
+ORD0498,09/12/2025,India,Clothing,Home Office,24012.53,5901.17,20
+ORD0499,07/03/2025,USA,Electronics,Home Office,45636.11,6278.89,19
+ORD0500,08/11/2025,Australia,Clothing,Consumer,10280.48,5049.85,2
